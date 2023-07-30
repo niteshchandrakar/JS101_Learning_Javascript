@@ -6,4 +6,4 @@ if(number%3 == 0){
 else{
   console.log("no")
 }
-// dfgjhjkhfg
+// ?kjkdhjhgjhdfjkhg
