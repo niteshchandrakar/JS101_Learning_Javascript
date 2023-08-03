@@ -6,5 +6,3 @@ if(number%3 == 0){
 else{
   console.log("no")
 }
-// klfdjkdfjkjfkhdsjhdfjkh
-// jhsdjhdshjdhfjh
